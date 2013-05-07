@@ -1,5 +1,5 @@
-Metanome Tail Module
-====================
+Metanome Syslog Pluggin
+=======================
 Counts lines in `/var/log/messages`. This is a minimal proof of concept.
 
 ### Install
