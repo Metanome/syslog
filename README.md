@@ -1,8 +1,9 @@
 Metanome Tail Module
 ====================
-Metanome module for counting lines tailed from a file using a syscall to
-`tail -F`. Why? 'Cause it's wicked efficient. Or would you rather `cat`
-100 MB through an `awk` script every 5 seconds? That's what I thought...
+Counts lines in `/var/log/messages`. This is a minimal proof of concept.
+
+### Install
+`./metaplug install syslog`
 
 ## MIT License
 Copyright (c) 2013 John Manero, Dynamic Network Services Inc.
