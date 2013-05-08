@@ -1,10 +1,10 @@
 {
     "name": "metanome-syslog",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Metanome pluggin to count lines written to default syslog messages output",
     "keywords": [],
     "dependencies": {
-    	"metanome-tail" : "0.1.0"
+    	"metanome-tail" : "0.2.0"
     },
     "author": {
         "name": "John Manero",
